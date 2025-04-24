@@ -1,6 +1,6 @@
-## NAME: JAYAPRADAN M
+## NAME:NIJANTH K
 
-## REG NO: 24900886 
+## REG NO: 212224230186
 
 ##   EXPERIENMENT NO 4: IMPLEMENTATION OF FULL ADDER AND SUBTRACTOR
 
@@ -39,25 +39,27 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **TRUTH TABLE**
-## FULL ADDER:
-![WhatsApp Image 2024-12-26 at 11 04 14_a6018e38](https://github.com/user-attachments/assets/c8493ea4-fe91-4d51-b6c7-712922817a95)
-## FULL SUBRACTOR:
+## TRUTHTABLE :
+![WhatsApp Image 2024-11-28 at 13 54 29](https://github.com/user-attachments/assets/ca73c884-9076-4a4e-af82-eb0d70d16801)
+## PROCEDURE :
 
-![WhatsApp Image 2024-12-26 at 11 04 14_6d7b1a39](https://github.com/user-attachments/assets/eed9687f-4ef8-4b4a-af5d-ea946121b47d)
+1.	Type the program in Quartus software.
 
+2.	Compile and run the program.
 
-**PROGRAMN:**
+3.	Generate the RTL schematic and save the logic diagram.
 
-![WhatsApp Image 2024-12-26 at 11 04 14_218a27ba](https://github.com/user-attachments/assets/72a7f09d-69c8-458a-9fc1-4986e37a0cb6)
+4.	Create nodes for inputs and outputs to generate the timing diagram.
 
+5.	For different input combinations generate the timing diagram.
+## PROGRAM:
+![WhatsApp Image 2024-11-28 at 14 28 20](https://github.com/user-attachments/assets/1a287887-089e-4151-ac4b-29cf022ef7d5)
 
-## RTL VIEWER 
+## RTL SCHEMATIC :
+![WhatsApp Image 2024-11-28 at 14 28 19](https://github.com/user-attachments/assets/af9d50b1-3ada-4ee2-a442-9ff94ba9266b)
 
-![WhatsApp Image 2024-12-26 at 11 04 13_0fb9965f](https://github.com/user-attachments/assets/786a1772-d7f4-48c0-8b92-83d8abff0019)
-
-## OUTPUT TIMING WAVEFORM:
-
-![WhatsApp Image 2024-12-26 at 11 04 13_1d6e37e7](https://github.com/user-attachments/assets/d0b1b2dd-ac26-4f0d-9565-db8331842396)
+## OUTPUT/TIMING WAVEFORM
+![WhatsApp Image 2024-11-28 at 14 28 20 (1)](https://github.com/user-attachments/assets/27c7b976-74de-48fa-a9f5-a696ef88b84b)
 
 **RESULT:**
 
