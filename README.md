@@ -4,7 +4,7 @@
 
 ##   EXPERIENMENT NO 4: IMPLEMENTATION OF FULL ADDER AND SUBTRACTOR
 
-**AIM:**
+**AIM:** 
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
